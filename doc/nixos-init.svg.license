@@ -1,0 +1,14 @@
+SPDX-FileCopyrightText: 2019 Kirill Elagin <https://kir.elagin.me/>
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+The nixos-init logo is composed from two other logos:
+
+* The systemd logo
+  From <https://github.com/systemd/brand.systemd.io/tree/3922ddab38d63044ab8e60ad03087ec51f224a9e>
+  Originally by Tobias Bernard <tbernard@gnome.org>
+  Licensed under CC-BY-SA-4.0 <https://creativecommons.org/licenses/by-sa/4.0/>
+
+* The NixOS logo
+  From <https://github.com/NixOS/nixos-artwork/tree/8e39b32fafd37b5f8df70724223146f700ca1efd/logo>
+  Originally by Tim Cuthbertson <tim@gfxmonk.net>
+  Licensed under CC-BY-4.0 <https://creativecommons.org/licenses/by/4.0/>
